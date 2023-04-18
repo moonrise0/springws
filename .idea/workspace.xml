@@ -4,19 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="461a19a5-7635-4593-a5e6-31da76f5ea96" name="Changes" comment="">
+    <list default="true" id="461a19a5-7635-4593-a5e6-31da76f5ea96" name="Changes" comment="Modi">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_ANN/src/main/java/com/kbstar/app/ProductInsertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_ANN/src/main/java/com/kbstar/dao/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_ANN/src/main/java/com/kbstar/dao/ProductMySQLDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_ANN/src/main/java/com/kbstar/dto/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_ANN/src/main/java/com/kbstar/frame/LoggerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_ANN/src/main/java/com/kbstar/frame/MyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_ANN/src/main/java/com/kbstar/frame/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_ANN/src/main/java/com/kbstar/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_ANN/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_XML/src/main/java/com/kbstar/app/ProductInsertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_XML/src/main/java/com/kbstar/dao/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_XML/src/main/java/com/kbstar/dao/ProductMySQLDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_XML/src/main/java/com/kbstar/dto/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_XML/src/main/java/com/kbstar/frame/MyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_XML/src/main/java/com/kbstar/frame/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_XML/src/main/java/com/kbstar/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ws0418_XML/src/main/resources/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ws0418/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ws0418/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ws0420/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ws0420/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ws0418_ANN/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ws0418_ANN/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ws0418_XML/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ws0418_XML/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2OZp3h59itiC2v8HQs4CZVeKNde" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,13 +61,56 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/spring/springws/ws0418_ANN/src/main/resources",
     "onboarding.tips.debug.path": "C:/spring/springws/ws0420/src/main/java/com/kbstar/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\spring\springws\ws0418_ANN\src\main\resources" />
+      <recent name="C:\spring\springws\ws0418_ANN\src\main\java\com\kbstar" />
+      <recent name="C:\spring\springws\ws0418_XML\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProductInsertTest (1)">
+    <configuration name="ProductInsertTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kbstar.app.ProductInsertTest" />
+      <module name="ws0418_XML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kbstar.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductInsertTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kbstar.app.ProductInsertTest" />
+      <module name="ws0418_ANN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kbstar.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProductInsertTest (1)" />
+        <item itemvalue="Application.ProductInsertTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,18 +120,30 @@
       <option name="presentableId" value="Default" />
       <updated>1681777762518</updated>
     </task>
+    <task id="LOCAL-00001" summary="Modi">
+      <created>1681801736534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681801736534</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ws0418/src/main/java/com/kbstar/Main.java</url>
+          <url>file://$PROJECT_DIR$/ws0418_XML/src/main/java/com/kbstar/Main.java</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ws0420/src/main/java/com/kbstar/Main.java</url>
+          <url>file://$PROJECT_DIR$/ws0418_ANN/src/main/java/com/kbstar/Main.java</url>
           <line>15</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>

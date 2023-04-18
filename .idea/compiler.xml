@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ws0418" />
-        <module name="ws0420" />
+        <module name="ws0418_ANN" />
+        <module name="ws0418_XML" />
       </profile>
     </annotationProcessing>
   </component>
